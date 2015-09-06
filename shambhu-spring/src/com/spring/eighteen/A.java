@@ -1,4 +1,7 @@
 package com.spring.eighteen;
+//sambhu
+//Nitesh
+//sambhu singh
 
 public class A {
 	private int a;
@@ -8,9 +11,12 @@ public class A {
 		this.a = a;
 	}
 
+
 	public void setMsg(String msg) {
 		this.msg = msg;
 	}
+
+
 
 	@Override
 	public String toString() {
