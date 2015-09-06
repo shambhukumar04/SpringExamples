@@ -8,6 +8,7 @@ public class A {
 		this.a = a;
 	}
 
+
 	public void setMsg(String msg) {
 		this.msg = msg;
 	}
