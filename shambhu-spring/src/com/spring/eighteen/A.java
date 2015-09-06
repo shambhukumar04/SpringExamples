@@ -13,6 +13,8 @@ public class A {
 		this.msg = msg;
 	}
 
+
+
 	@Override
 	public String toString() {
 		return "A [a=" + a + ", msg=" + msg + "]";
