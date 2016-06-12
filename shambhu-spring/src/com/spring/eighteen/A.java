@@ -1,7 +1,6 @@
 package com.spring.eighteen;
 //sambhu
 //Nitesh
-//sambhu singh
 
 public class A {
 	private int a;
